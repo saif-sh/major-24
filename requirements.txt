@@ -1,0 +1,6 @@
+numpy
+librosa
+sounddevice
+soundfile
+scikit-learn
+tk
